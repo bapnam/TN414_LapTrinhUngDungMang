@@ -1,0 +1,10 @@
+D:\B1809485\N4_HK2_TN414_LTUDMang\ThucHanh\ProjectManage\ProjectManage\bin\Debug\ProjectManage.exe.config
+D:\B1809485\N4_HK2_TN414_LTUDMang\ThucHanh\ProjectManage\ProjectManage\bin\Debug\ProjectManage.exe
+D:\B1809485\N4_HK2_TN414_LTUDMang\ThucHanh\ProjectManage\ProjectManage\bin\Debug\ProjectManage.pdb
+D:\B1809485\N4_HK2_TN414_LTUDMang\ThucHanh\ProjectManage\ProjectManage\obj\Debug\ProjectManage.Properties.Resources.resources
+D:\B1809485\N4_HK2_TN414_LTUDMang\ThucHanh\ProjectManage\ProjectManage\obj\Debug\ProjectManage.csproj.GenerateResource.cache
+D:\B1809485\N4_HK2_TN414_LTUDMang\ThucHanh\ProjectManage\ProjectManage\obj\Debug\ProjectManage.csproj.CoreCompileInputs.cache
+D:\B1809485\N4_HK2_TN414_LTUDMang\ThucHanh\ProjectManage\ProjectManage\obj\Debug\ProjectManage.exe
+D:\B1809485\N4_HK2_TN414_LTUDMang\ThucHanh\ProjectManage\ProjectManage\obj\Debug\ProjectManage.pdb
+D:\B1809485\N4_HK2_TN414_LTUDMang\ThucHanh\ProjectManage\ProjectManage\obj\Debug\ProjectManage.FormStream.resources
+D:\B1809485\N4_HK2_TN414_LTUDMang\ThucHanh\ProjectManage\ProjectManage\obj\Debug\ProjectManage.csproj.AssemblyReference.cache

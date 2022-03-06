@@ -1,0 +1,2 @@
+﻿Xin chào các bạn sinh viên CTU! 
+Ví dụ ghi file text bằng stream
