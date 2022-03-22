@@ -13,6 +13,8 @@ namespace ProjectManage
 {
 	public partial class FormStream : Form
 	{
+		public TextBox txtText;//= new System.Windows.Forms.TextBox();
+		
 		//public static FormStream txt = 
 		public FormStream()
 		{
@@ -22,8 +24,10 @@ namespace ProjectManage
 		private void btnRun_Click(object sender, EventArgs e)
 		{
 			Write();
-			Read();
-			txtGhi.Text = FileStream_DocGhi_TextFile.nam;
+			//Read();
+			//txtGhi.Text = FileStream_DocGhi_TextFile.nam;
+			FileStream_DocGhi_TextFile.Read();
+			
 		}
 
 

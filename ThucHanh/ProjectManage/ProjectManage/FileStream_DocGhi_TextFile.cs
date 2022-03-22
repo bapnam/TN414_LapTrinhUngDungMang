@@ -9,7 +9,7 @@ namespace ProjectManage
 {
 	public class FileStream_DocGhi_TextFile
 	{
-		static FormStream fs;
+		public static FormStream fs;
 		public static string nam = "hello";
 		public static void Write()
 		{
@@ -68,7 +68,8 @@ namespace ProjectManage
 						Array.Clear(buffer, numberRead, SIZEBUFFER - numberRead);
 					s = encoding.GetString(buffer, 0, numberRead);
 					Console.WriteLine(s1.ToString());
-					//fs.txtHienThi.AppendText(s);
+					fs.txtHienThi1.AppendText(s);
+					fs.txtText.Text = "nam";
 					
 				} while (!endRead);
 			}
